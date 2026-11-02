@@ -33,7 +33,7 @@ The project focuses on recreating the Fokir website layout while practicing page
 
 ## Live Demo
 
-[View Live Demo]((https://mennat-alah.github.io/Fokir-website/))
+https://mennat-alah.github.io/Fokir-website/
 
 ## Run Locally
 
