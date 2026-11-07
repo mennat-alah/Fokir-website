@@ -447,14 +447,17 @@ header p::after {
   position: relative;
   overflow: hidden;
 }
-.triangle-part {
-  height: 400px;
-  width: 400px;
+
+.Testimonial-card::after{
+  content: "";
+  width: 200px;
+  height: 200px;
   position: absolute;
-  top: -200px;
-  left: -300px;
-  transform: rotate(45deg);
+  top: 0;
+  left: 0;
   background-color: var(--main-color);
+  transform: skewX(-45deg) translateX(-50%);
+
 }
 .Testimonial-card .card-img {
   width: 20%;
